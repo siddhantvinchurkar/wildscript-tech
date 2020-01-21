@@ -82,6 +82,16 @@ a{
 	background-color: #000000;
 }
 
+.progress
+{
+	background-color: #000000;
+}
+  
+.progress .indeterminate
+{
+	background-color: #AEEA00;
+}
+
 ::placeholder
 {
 	color: #777777 !important;

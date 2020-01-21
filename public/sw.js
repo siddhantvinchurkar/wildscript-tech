@@ -115,7 +115,7 @@ self.__precacheManifest = [
   },
   {
     "url": "resources/styles/main.css",
-    "revision": "5abe76971d7a69f9e1c881293c275852"
+    "revision": "9d6d26c504511c81f1faff18261150b1"
   },
   {
     "url": "resources/styles/material-icons.css",
