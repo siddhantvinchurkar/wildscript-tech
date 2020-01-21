@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons&display=swap');
+
+html
+{
+	font-family: 'Roboto', sans-serif;
+	background-color: #000000 !important;
+}
+
+body
+{
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main
+{
+   flex: 1 0 auto;
+}
+
+nav{
+	position: fixed !important;
+	top: 0;
+	z-index: 5;
+}
+
+input
+{
+	color: #AEEA00;
+}
+
+h1, h2, h3, h4, h5, h6
+{
+	color: #AEEA00 !important;
+}
+
+p
+{
+	color: #AEEA00 !important;
+}
+
+a{
+	color: #26C6DA !important;
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+.input-field label
+{
+	color: #4A4A4A;
+}
+  
+.input-field label .active
+{
+	color: #AEEA00;
+}
+
+.input-field .helper-text
+{
+	color: #AEEA00;
+}
+
+.modal
+{
+	background-color: #000000 !important;
+}
+
+.page-footer
+{
+	background-color: #222222;
+	padding-top: 0px !important;
+}
+
+.page-footer .footer-copyright
+{
+	background-color: #000000;
+}
+
+::placeholder
+{
+	color: #777777 !important;
+}
+  
+::-webkit-scrollbar
+{
+	width: 10px;
+}
+  
+::-webkit-scrollbar-track
+{
+	background: #000000;
+}
+  
+::-webkit-scrollbar-thumb
+{
+	background: #AEEA0099; 
+	border-radius: 5px;
+}
+  
+::-webkit-scrollbar-thumb:hover
+{
+	background: #AEEA00; 
+}
