@@ -4,7 +4,7 @@
 html
 {
 	font-family: 'Roboto', sans-serif;
-	background-color: #000000 !important;
+	background-color: #111111 !important;
 }
 
 body
@@ -19,10 +19,17 @@ main
    flex: 1 0 auto;
 }
 
-nav{
+nav
+{
 	position: fixed !important;
 	top: 0;
 	z-index: 5;
+	background-color: #000000 !important;
+}
+
+nav a
+{
+	color: #AEEA00 !important;
 }
 
 input
@@ -90,6 +97,62 @@ a{
 .progress .indeterminate
 {
 	background-color: #AEEA00;
+}
+
+.sidenav
+{
+	background-color: #000000;
+	color: #AEEA00;
+}
+
+.sidenav a, .sidenav i
+{
+	color: #AEEA00 !important;
+}
+
+@media only screen and (max-width: 601px)
+{
+	.sidenav .active
+	{
+		color: #000000 !important;
+		background-color: #AEEA00 !important;
+	}
+
+	.sidenav .active i
+	{
+		color: #000000 !important;
+		background-color: #AEEA00 !important;
+	}
+}
+
+@media only screen and (min-width: 601px)
+{
+	.active
+	{
+		color: #000000 !important;
+		background-color: #AEEA00 !important;
+	}
+
+	.active i
+	{
+		color: #000000 !important;
+		background-color: #AEEA00 !important;
+	}
+
+	.input-field .active{
+		background-color: transparent !important;
+		color: #4A4A4A !important;
+	}
+}
+
+.input-field i
+{
+	color: #AEEA00 !important;
+}
+
+#download_resume_footer
+{
+	margin-bottom: 1em;
 }
 
 ::placeholder

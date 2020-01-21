@@ -11,33 +11,6 @@ function isVisible(elem) {
 	return ((elemBottom <= docViewBottom) && (elemTop >= docViewTop));
 }
 
-/* Function to download resume */
-
-function downloadResume() {
-
-	/* Display progress bar */
-
-	M.Modal.getInstance(progressDialogModal).open();
-
-	$.get('https://wildscript.tech/resume', function (data) {
-
-		/* Hide progress bar */
-
-		M.Modal.getInstance(progressDialogModal).close();
-
-	}).fail(function () {
-
-		/* Hide progress bar */
-
-		M.Modal.getInstance(progressDialogModal).close();
-
-		/* Display error message */
-
-		Swal.fire('Oops!', 'Something went wrong.', 'error');
-
-	});
-}
-
 /* Main function */
 
 window.onload = function () {
@@ -54,6 +27,7 @@ window.onload = function () {
 
 	$('.modal#progressDialogModal').modal({ dismissible: false });
 	$('.tooltipped').tooltip();
+	$('.sidenav').sidenav();
 
 	/* Form Field Monitors */
 
@@ -147,10 +121,6 @@ window.onload = function () {
 				Swal.fire('Oops!', 'Something went wrong.', 'error');
 
 			});
-
-			/* Handle what happens when the user clicks on the download resume button in the footer */
-
-			$('#download_resume_footer').click(function () { downloadResume(); });
 
 		});
 

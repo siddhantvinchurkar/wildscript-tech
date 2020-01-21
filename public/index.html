@@ -84,6 +84,51 @@
 				</div>
 			</div>
 
+			<!-- Navbar (For large and extra large screens) -->
+
+			<nav>
+				<div class="nav-wrapper" style="box-shadow: none !important;">
+					<a class="brand-logo">
+						<img class="lazyload responsive-img hide-on-med-and-down"
+							data-src="resources/images/icons/favicon_192.webp" style="height:3em;"
+							alt="Unable to load image" />
+						<h3 class="hide-on-large-only" style="margin-top: 0.3em; font-size: 0.8em;">Siddhant's Portfolio
+						</h3>
+						<a data-target="sidenav" class="sidenav-trigger hide-on-large-only"><i
+								class="material-icons">menu</i></a>
+					</a>
+					<ul class="right hide-on-med-and-down">
+						<li>
+							<a style="font-size: 2em;">Siddhant's Portfolio</a>
+						</li>
+					</ul>
+					<ul class="center hide-on-med-and-down">
+						<li>
+							<a class="active" id="projects"><i class="material-icons left">laptop_chromebook</i>
+								Projects</a>
+						</li>
+						<li>
+							<a id="contact"><i class="material-icons left">phone</i> Contact</a>
+						</li>
+					</ul>
+				</div>
+			</nav>
+
+			<!-- Sidenav (For small and medium sized screens) -->
+
+			<ul id="sidenav" class="sidenav hide-on-large-only">
+				<li>
+					<div class="user-view">
+						<img class=" circle lazyload responsive-img" data-src="resources/images/icons/favicon_192.webp"
+							alt="Unable to load image" />
+						<span class="name">Siddhant's Portfolio</span>
+					</div>
+				</li>
+				<li><a class="active" id="sides1trigger"><i class="material-icons">laptop_chromebook</i>Projects</a>
+				</li>
+				<li><a id="sides2trigger"><i class="material-icons">phone</i>Contact</a></li>
+			</ul>
+
 		</main>
 
 		<!-- Webpage footer -->
@@ -94,19 +139,27 @@
 					<div class="col s12 m12 l6 xl6">
 						<h4>Interested in hiring me?</h4>
 						<p>
-							You can call me on <a class="tooltipped" data-position="bottom"
-								data-tooltip="Click here to call me" href="tel:+919900608821" target="_blank"
-								rel="noreferrer" title="Click here to call me">+91 99006
-								08821</a> or send an email to <a class="tooltipped" data-position="bottom"
+							You can <a class="tooltipped" data-position="bottom" data-tooltip="Click here to call me"
+								href="tel:+919900608821" target="_blank" rel="noreferrer"
+								title="Click here to call me">call</a> or <a class="tooltipped" data-position="bottom"
+								data-tooltip="Click here to WhatsApp me" href="https://wa.me/919900608821"
+								target="_blank" rel="noreferrer" title="Click here to WhatsApp me">WhatsApp</a> me on <a
+								class="tooltipped" data-position="bottom" data-tooltip="Click here to call me"
+								href="tel:+919900608821" target="_blank" rel="noreferrer"
+								title="Click here to call me">+91 99006
+								08821</a> or <a class="tooltipped" data-position="bottom"
+								data-tooltip="Click here to send me an email" href="mailto:siddhantvinchurkar@gmail.com"
+								target="_blank" rel="noreferrer" title="Click here to send me an email">send an
+								email</a> to <a class="tooltipped" data-position="bottom"
 								data-tooltip="Click here to send me an email" href="mailto:siddhantvinchurkar@gmail.com"
 								target="_blank" rel="noreferrer"
-								title="Click here to send me an email">siddhantvinchurkar@gmail.com</a
-								class="tooltipped">.
-							Alternatively, you can leave me your email address and I shall get in touch with you.
+								title="Click here to send me an email">siddhantvinchurkar@gmail.com</a>.
+							Alternatively, you can leave me your email address and I'll get in touch with you as soon as
+							I possibly can.
 						</p>
 						<div class="row">
 							<div class="col s12 m12 l12 xl12 input-field">
-								<i class="material-icons prefix" style="color: #AEEA00;">email</i>
+								<i class="material-icons prefix">email</i>
 								<input placeholder="rahul.prakash34@gmail.com" id="email" type="email" class="validate"
 									pattern="[a-z0-9._%+-]+@+[a-z]+.+[a-z]" required>
 								<label for="email">Email address *</label>
@@ -130,7 +183,8 @@
 									android and web applications. I can build Progressive Web Apps as well as native
 									android applications.
 								</p>
-								<a id="download_resume_footer"
+								<a href="https://siddhantvinchurkar.github.io/resume" target="_blank" rel="noreferrer"
+									id="download_resume_footer"
 									class="waves-effect waves-light btn-large lime accent-4 black-text"><i
 										class="material-icons right">file_copy</i><b>Download Resume</b></a>
 							</div>
@@ -145,6 +199,7 @@
 			<div class="footer-copyright">
 				<div class="container">
 					&copy; <span id="footerYear">2020</span> <b>Wildscript Technologies</b>. All rights reserved.
+					<a class="right" href="privacy/" rel="noreferrer" target="_blank">Privacy Policy</a>
 				</div>
 			</div>
 		</footer>

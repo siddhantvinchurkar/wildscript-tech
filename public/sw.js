@@ -31,11 +31,11 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "bbbd46db913f1635bf08b633ac984d5b"
+    "revision": "061b5ef082f6aa25843c3b337f348ecc"
   },
   {
     "url": "manifest.json",
-    "revision": "6355d5e9bcf85e38633d0b6c086f004d"
+    "revision": "2b0c11aa34af3a5ed8acec2032b42162"
   },
   {
     "url": "privacy/index.html",
@@ -99,7 +99,7 @@ self.__precacheManifest = [
   },
   {
     "url": "resources/scripts/main.js",
-    "revision": "029de7b4f523fda1492594dd8ca13760"
+    "revision": "b3d36870efcd477b905670b5182f955b"
   },
   {
     "url": "resources/scripts/materialize.min.js",
@@ -115,7 +115,7 @@ self.__precacheManifest = [
   },
   {
     "url": "resources/styles/main.css",
-    "revision": "9d6d26c504511c81f1faff18261150b1"
+    "revision": "1c383a779e6b4109fd9a92ed980869cc"
   },
   {
     "url": "resources/styles/material-icons.css",

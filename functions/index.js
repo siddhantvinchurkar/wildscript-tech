@@ -100,10 +100,3 @@ exports.getEmails = functions.https.onRequest((req, res) => {
 	});
 
 });
-
-/* Function to download resume */
-
-exports.downloadResume = functions.https.onRequest((req, res) => {
-	res.redirect('https://siddhantvinchurkar.github.io/resume/Resume.pdf')
-	return true;
-});
