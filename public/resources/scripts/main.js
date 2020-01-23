@@ -28,6 +28,7 @@ window.onload = function () {
 	$('.modal#progressDialogModal').modal({ dismissible: false });
 	$('.tooltipped').tooltip();
 	$('.sidenav').sidenav();
+	$('.materialboxed').materialbox();
 
 	/* Form Field Monitors */
 

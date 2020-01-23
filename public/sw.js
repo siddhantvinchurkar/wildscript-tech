@@ -31,7 +31,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "061b5ef082f6aa25843c3b337f348ecc"
+    "revision": "37a9995bb8cfa6ca1239824ce48b25d5"
   },
   {
     "url": "manifest.json",
@@ -44,6 +44,22 @@ self.__precacheManifest = [
   {
     "url": "resources/images/404.webp",
     "revision": "0d6ca04f8ceb6d96213aaa60d23266be"
+  },
+  {
+    "url": "resources/images/bpr/bpr-1366.webp",
+    "revision": "53b59f9b4c8234455023387f84480953"
+  },
+  {
+    "url": "resources/images/bpr/bpr-1920.webp",
+    "revision": "3fcf26145e036e9d3ae82a64c23ff6f2"
+  },
+  {
+    "url": "resources/images/bpr/bpr-432.webp",
+    "revision": "bc7cf9e0948b52f0bf52aae5d386490b"
+  },
+  {
+    "url": "resources/images/bpr/bpr-96.webp",
+    "revision": "c99e5f76e11dadc1fc51d6b1d557c158"
   },
   {
     "url": "resources/images/icons/favicon_144.png",
@@ -78,6 +94,22 @@ self.__precacheManifest = [
     "revision": "9efe38f135fe48d4bac1ed609b198619"
   },
   {
+    "url": "resources/images/onyx/onyx-1366.webp",
+    "revision": "5421bd8aeb7e3115591c8af42d26ef52"
+  },
+  {
+    "url": "resources/images/onyx/onyx-1920.webp",
+    "revision": "f1cafbfbaa491dadd7cb6bbe6ff69fe7"
+  },
+  {
+    "url": "resources/images/onyx/onyx-432.webp",
+    "revision": "1620d0487bbbdc90deaaf517017c0786"
+  },
+  {
+    "url": "resources/images/onyx/onyx-96.webp",
+    "revision": "76bda585e75cc9c313f566306f2475b5"
+  },
+  {
     "url": "resources/images/siddhantvinchurkar.webp",
     "revision": "f9027a3efb7d88d52d316fc58a8c9cd2"
   },
@@ -99,7 +131,7 @@ self.__precacheManifest = [
   },
   {
     "url": "resources/scripts/main.js",
-    "revision": "b3d36870efcd477b905670b5182f955b"
+    "revision": "6808fdf117e0e8949b6881790b909e70"
   },
   {
     "url": "resources/scripts/materialize.min.js",
@@ -115,7 +147,7 @@ self.__precacheManifest = [
   },
   {
     "url": "resources/styles/main.css",
-    "revision": "1c383a779e6b4109fd9a92ed980869cc"
+    "revision": "2bbb37f4cd0a100c62a418650046ce62"
   },
   {
     "url": "resources/styles/material-icons.css",

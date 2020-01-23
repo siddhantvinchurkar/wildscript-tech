@@ -82,6 +82,7 @@ a{
 {
 	background-color: #222222;
 	padding-top: 0px !important;
+	margin-top: 2em;
 }
 
 .page-footer .footer-copyright
@@ -150,9 +151,42 @@ a{
 	color: #AEEA00 !important;
 }
 
+.section-first
+{
+	margin-top: 5em;
+}
+
+.row
+{
+	margin-bottom: 0px !important;
+}
+
+.row .col
+{
+	padding-left: 0px !important;
+	padding-right: 0px !important;
+}
+
+.section-first
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+
+.section
+{
+	padding-top: 0px !important;
+	padding-bottom: 0px !important;
+}
+
 #download_resume_footer
 {
 	margin-bottom: 1em;
+}
+
+#footer_row
+{
+	padding-bottom: 2em !important;
 }
 
 ::placeholder
