@@ -199,7 +199,7 @@ self.__precacheManifest = [
   },
   {
     "url": "resources/scripts/main.js",
-    "revision": "6808fdf117e0e8949b6881790b909e70"
+    "revision": "441e5d87f680decd2a1a5c0f89c57127"
   },
   {
     "url": "resources/scripts/materialize.min.js",
@@ -216,10 +216,6 @@ self.__precacheManifest = [
   {
     "url": "resources/styles/main.css",
     "revision": "dda00ba28faba676906f84a61e798638"
-  },
-  {
-    "url": "resources/styles/material-icons.css",
-    "revision": "e836a138540b4f2b2a9ac67d677699ca"
   },
   {
     "url": "resources/styles/materialize.min.css",
