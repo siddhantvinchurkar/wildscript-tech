@@ -29,6 +29,29 @@ window.onload = function () {
 	$('.tooltipped').tooltip();
 	$('.sidenav').sidenav();
 	$('.materialboxed').materialbox();
+	$('.scrollspy').scrollSpy();
+
+	/* Ensure the sidenav closes after a selection is made */
+
+	$('#sides1trigger').click(function () { M.Sidenav.getInstance(sidenav).close(); });
+	$('#sides2trigger').click(function () { M.Sidenav.getInstance(sidenav).close(); });
+
+	/* Scroll monitor */
+
+	setInterval(function () {
+		if (isVisible('footerH')) {
+			$('#projects').removeClass('active');
+			$('#contact').addClass('active');
+			$('#sides1trigger').removeClass('active');
+			$('#sides2trigger').addClass('active');
+		}
+		else {
+			$('#contact').removeClass('active');
+			$('#projects').addClass('active');
+			$('#sides2trigger').removeClass('active');
+			$('#sides1trigger').addClass('active');
+		}
+	}, 100);
 
 	/* Form Field Monitors */
 

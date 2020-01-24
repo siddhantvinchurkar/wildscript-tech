@@ -194,6 +194,11 @@ a{
 	padding-bottom: 2em !important;
 }
 
+#download_resume_sidenav, #download_resume_sidenav i
+{
+	color: #000000 !important;
+}
+
 ::placeholder
 {
 	color: #777777 !important;

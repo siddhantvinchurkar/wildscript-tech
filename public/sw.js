@@ -31,7 +31,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "a80bad29bda0effa4a5c7ddc6a461170"
+    "revision": "e96c9ea7ee8ab09b2e164f3adc0355c5"
   },
   {
     "url": "manifest.json",
@@ -199,7 +199,7 @@ self.__precacheManifest = [
   },
   {
     "url": "resources/scripts/main.js",
-    "revision": "6808fdf117e0e8949b6881790b909e70"
+    "revision": "2b4ae20fb0bdff36275305b06b271d9c"
   },
   {
     "url": "resources/scripts/materialize-passive-listener-mod.min.js",
@@ -215,7 +215,7 @@ self.__precacheManifest = [
   },
   {
     "url": "resources/styles/main.css",
-    "revision": "dda00ba28faba676906f84a61e798638"
+    "revision": "580105ba51f2431cf2fef33eee9efc0f"
   },
   {
     "url": "resources/styles/materialize.min.css",
