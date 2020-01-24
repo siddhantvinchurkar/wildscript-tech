@@ -31,7 +31,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "5870e1f814f600f10bb43e9a8c61a997"
+    "revision": "a80bad29bda0effa4a5c7ddc6a461170"
   },
   {
     "url": "manifest.json",
@@ -191,7 +191,7 @@ self.__precacheManifest = [
   },
   {
     "url": "resources/scripts/jquery.min.js",
-    "revision": "220afd743d9e9643852e31a135a9f3ae"
+    "revision": "8f2bd55d31c72d762702c6023f425c5d"
   },
   {
     "url": "resources/scripts/lazysizes.min.js",
@@ -199,11 +199,11 @@ self.__precacheManifest = [
   },
   {
     "url": "resources/scripts/main.js",
-    "revision": "441e5d87f680decd2a1a5c0f89c57127"
+    "revision": "6808fdf117e0e8949b6881790b909e70"
   },
   {
-    "url": "resources/scripts/materialize.min.js",
-    "revision": "87d84bf8b4cc051c16092d27b1a7d9b3"
+    "url": "resources/scripts/materialize-passive-listener-mod.min.js",
+    "revision": "b339732d61f433f326d5f6279626e5aa"
   },
   {
     "url": "resources/scripts/sweetalert.js",
