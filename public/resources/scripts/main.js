@@ -17,7 +17,7 @@ window.onload = function () {
 
 	/* Register a service worker */
 
-	if ('serviceWorker' in navigator) { navigator.serviceWorker.register('sw.js'); }
+	if ('serviceWorker' in navigator) { navigator.serviceWorker.register('/sw.js'); }
 
 	/* Update footer year */
 

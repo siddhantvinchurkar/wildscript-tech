@@ -199,7 +199,7 @@ self.__precacheManifest = [
   },
   {
     "url": "resources/scripts/main.js",
-    "revision": "2b4ae20fb0bdff36275305b06b271d9c"
+    "revision": "c7d6b5852c93035e21ecdd87533d1fa3"
   },
   {
     "url": "resources/scripts/materialize-passive-listener-mod.min.js",
