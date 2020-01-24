@@ -31,7 +31,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "37a9995bb8cfa6ca1239824ce48b25d5"
+    "revision": "5870e1f814f600f10bb43e9a8c61a997"
   },
   {
     "url": "manifest.json",
@@ -44,6 +44,22 @@ self.__precacheManifest = [
   {
     "url": "resources/images/404.webp",
     "revision": "0d6ca04f8ceb6d96213aaa60d23266be"
+  },
+  {
+    "url": "resources/images/aiwc/aiwc-1366.webp",
+    "revision": "73dbb876810db32c33b2bd41d494cf5d"
+  },
+  {
+    "url": "resources/images/aiwc/aiwc-1920.webp",
+    "revision": "0c787e0e058ee1e3aa5e21cc769fc0aa"
+  },
+  {
+    "url": "resources/images/aiwc/aiwc-432.webp",
+    "revision": "2b1fcea20076653c821836c265af1c26"
+  },
+  {
+    "url": "resources/images/aiwc/aiwc-96.webp",
+    "revision": "ef1872bafc1b173eada6bd228eb58430"
   },
   {
     "url": "resources/images/bpr/bpr-1366.webp",
@@ -60,6 +76,26 @@ self.__precacheManifest = [
   {
     "url": "resources/images/bpr/bpr-96.webp",
     "revision": "c99e5f76e11dadc1fc51d6b1d557c158"
+  },
+  {
+    "url": "resources/images/cb/cb-1366.webp",
+    "revision": "32e0a46688ddc68e75d652e37adb65f1"
+  },
+  {
+    "url": "resources/images/cb/cb-1920.webp",
+    "revision": "73afa6e59b789f98858d46910cbe0fce"
+  },
+  {
+    "url": "resources/images/cb/cb-432.webp",
+    "revision": "8ae96d31fc2a07d9fbffa3954cd9865a"
+  },
+  {
+    "url": "resources/images/cb/cb-96.webp",
+    "revision": "e3737d3fa57a3794b894d56abb171ffb"
+  },
+  {
+    "url": "resources/images/github.webp",
+    "revision": "0db29098921b2ed01f48dfe98e6351ec"
   },
   {
     "url": "resources/images/icons/favicon_144.png",
@@ -94,6 +130,38 @@ self.__precacheManifest = [
     "revision": "9efe38f135fe48d4bac1ed609b198619"
   },
   {
+    "url": "resources/images/ipr/ipr-1366.webp",
+    "revision": "48d666be1b0ff387ed6334df9eac1358"
+  },
+  {
+    "url": "resources/images/ipr/ipr-1920.webp",
+    "revision": "694d9ec2c66fc80445415bd30eda86a0"
+  },
+  {
+    "url": "resources/images/ipr/ipr-432.webp",
+    "revision": "d3fcc3c44b2090b816833c7366f371d3"
+  },
+  {
+    "url": "resources/images/ipr/ipr-96.webp",
+    "revision": "c99e5f76e11dadc1fc51d6b1d557c158"
+  },
+  {
+    "url": "resources/images/matchday/matchday-1366.webp",
+    "revision": "d79a274e7b264e6e3f102de51983e8c8"
+  },
+  {
+    "url": "resources/images/matchday/matchday-1920.webp",
+    "revision": "6fbdae7294ce76c5e73f1197367775e0"
+  },
+  {
+    "url": "resources/images/matchday/matchday-432.webp",
+    "revision": "a34dba8c2e60ebd4ba709bcb4ed3457d"
+  },
+  {
+    "url": "resources/images/matchday/matchday-96.webp",
+    "revision": "c23935b9fce207710a9a82b1716d618c"
+  },
+  {
     "url": "resources/images/onyx/onyx-1366.webp",
     "revision": "5421bd8aeb7e3115591c8af42d26ef52"
   },
@@ -111,7 +179,7 @@ self.__precacheManifest = [
   },
   {
     "url": "resources/images/siddhantvinchurkar.webp",
-    "revision": "f9027a3efb7d88d52d316fc58a8c9cd2"
+    "revision": "5c1b88567953ae428f3def73fa8f9544"
   },
   {
     "url": "resources/scripts/firebase-analytics.js",
@@ -147,7 +215,7 @@ self.__precacheManifest = [
   },
   {
     "url": "resources/styles/main.css",
-    "revision": "2bbb37f4cd0a100c62a418650046ce62"
+    "revision": "dda00ba28faba676906f84a61e798638"
   },
   {
     "url": "resources/styles/material-icons.css",

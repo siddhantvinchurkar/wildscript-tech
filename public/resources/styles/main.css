@@ -60,7 +60,7 @@ a{
 
 .input-field label
 {
-	color: #4A4A4A;
+	color: #B1B1B1;
 }
   
 .input-field label .active
@@ -177,6 +177,11 @@ a{
 {
 	padding-top: 0px !important;
 	padding-bottom: 0px !important;
+}
+
+.footer-copyright .container b
+{
+	color: #AEEA00 !important;
 }
 
 #download_resume_footer
