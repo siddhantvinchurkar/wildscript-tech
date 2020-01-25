@@ -190,10 +190,6 @@ self.__precacheManifest = [
     "revision": "848cffce888c29e4f0fa35161d337557"
   },
   {
-    "url": "resources/images/ts_icons/CompressedImages_ShrinkMe.zip",
-    "revision": "a50527a162ff5764d952db9df37d0e3d"
-  },
-  {
     "url": "resources/images/ts_icons/css3.webp",
     "revision": "8242ea54b22958ab6d8f18bbb3c8f3cd"
   },
