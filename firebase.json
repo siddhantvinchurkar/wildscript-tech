@@ -24,10 +24,6 @@
       {
         "source": "/getEmails",
         "function": "getEmails"
-      },
-      {
-        "source": "/resume",
-        "function": "downloadResume"
       }
     ],
     "headers": [
@@ -87,7 +83,7 @@
         ]
       },
       {
-        "source": "/resume",
+        "source": "/sw.js",
         "headers": [
           {
             "key": "Cache-Control",
