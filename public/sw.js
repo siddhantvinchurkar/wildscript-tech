@@ -31,7 +31,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "e96c9ea7ee8ab09b2e164f3adc0355c5"
+    "revision": "f3cb13f019ed268b174f57d76ef106fa"
   },
   {
     "url": "manifest.json",
@@ -182,6 +182,74 @@ self.__precacheManifest = [
     "revision": "5c1b88567953ae428f3def73fa8f9544"
   },
   {
+    "url": "resources/images/ts_icons/as.webp",
+    "revision": "c3d06e250e0240d82c815018d4cb0797"
+  },
+  {
+    "url": "resources/images/ts_icons/c.webp",
+    "revision": "848cffce888c29e4f0fa35161d337557"
+  },
+  {
+    "url": "resources/images/ts_icons/CompressedImages_ShrinkMe.zip",
+    "revision": "a50527a162ff5764d952db9df37d0e3d"
+  },
+  {
+    "url": "resources/images/ts_icons/css3.webp",
+    "revision": "8242ea54b22958ab6d8f18bbb3c8f3cd"
+  },
+  {
+    "url": "resources/images/ts_icons/df.webp",
+    "revision": "1b3602084b0702bbb8db42b529c47e78"
+  },
+  {
+    "url": "resources/images/ts_icons/fb.webp",
+    "revision": "7b4c905bba31bc2f708d9b0ee9a2cf89"
+  },
+  {
+    "url": "resources/images/ts_icons/gs.webp",
+    "revision": "447db297b679ee7e6e01cde157ccb8fb"
+  },
+  {
+    "url": "resources/images/ts_icons/html5.webp",
+    "revision": "e96ff1078843f09567b03cf95c0ac2cf"
+  },
+  {
+    "url": "resources/images/ts_icons/jq.webp",
+    "revision": "172ada17ebc0bd54fda8b2fd89c0b239"
+  },
+  {
+    "url": "resources/images/ts_icons/js.webp",
+    "revision": "b53dc919dca83ef8869bb15ee8c7431f"
+  },
+  {
+    "url": "resources/images/ts_icons/m.webp",
+    "revision": "28d2ec0bb60195e95b31d55a86208473"
+  },
+  {
+    "url": "resources/images/ts_icons/ps.webp",
+    "revision": "fb8f3ff1165f4e474109a9509790d602"
+  },
+  {
+    "url": "resources/images/ts_icons/pwa.webp",
+    "revision": "a1e5cc6ce232d2aee0cb07e5e7302207"
+  },
+  {
+    "url": "resources/images/ts_icons/rp.webp",
+    "revision": "44eb277e399fe4465ac8a831af4c8405"
+  },
+  {
+    "url": "resources/images/ts_icons/sg.webp",
+    "revision": "326f6998c7b312b74924a39ecb879c0f"
+  },
+  {
+    "url": "resources/images/ts_icons/tci.webp",
+    "revision": "63d13d7c30bc11f3b401789bbb2807ed"
+  },
+  {
+    "url": "resources/images/ts_icons/wb.webp",
+    "revision": "b1a078676e4c1bc8a28e0fc20c1da328"
+  },
+  {
     "url": "resources/scripts/firebase-analytics.js",
     "revision": "326350755aa2a2bf3c73ae9e75886d34"
   },
@@ -199,7 +267,7 @@ self.__precacheManifest = [
   },
   {
     "url": "resources/scripts/main.js",
-    "revision": "c7d6b5852c93035e21ecdd87533d1fa3"
+    "revision": "2b4ae20fb0bdff36275305b06b271d9c"
   },
   {
     "url": "resources/scripts/materialize-passive-listener-mod.min.js",
@@ -215,7 +283,7 @@ self.__precacheManifest = [
   },
   {
     "url": "resources/styles/main.css",
-    "revision": "580105ba51f2431cf2fef33eee9efc0f"
+    "revision": "081662d764b64481a1eed6ceabb7b6b1"
   },
   {
     "url": "resources/styles/materialize.min.css",

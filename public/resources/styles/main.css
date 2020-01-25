@@ -82,7 +82,6 @@ a{
 {
 	background-color: #222222;
 	padding-top: 0px !important;
-	margin-top: 2em;
 }
 
 .page-footer .footer-copyright
@@ -184,6 +183,11 @@ a{
 	color: #AEEA00 !important;
 }
 
+.ts
+{
+	padding: 0.5em !important;
+}
+
 #download_resume_footer
 {
 	margin-bottom: 1em;
@@ -197,6 +201,11 @@ a{
 #download_resume_sidenav, #download_resume_sidenav i
 {
 	color: #000000 !important;
+}
+
+#last_link
+{
+	margin-bottom: 1em !important;
 }
 
 ::placeholder
