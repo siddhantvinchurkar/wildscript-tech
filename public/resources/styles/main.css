@@ -188,6 +188,11 @@ a{
 	padding: 0.5em !important;
 }
 
+.lime-text
+{
+	color: #AEEA00 !important;
+}
+
 #download_resume_footer
 {
 	margin-bottom: 1em;

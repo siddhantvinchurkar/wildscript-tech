@@ -39,7 +39,7 @@ self.__precacheManifest = [
   },
   {
     "url": "privacy/index.html",
-    "revision": "157b38bf84a7af1beb50645ab3b439ff"
+    "revision": "09b72ba91b229265a9e68873bc0a2b4c"
   },
   {
     "url": "resources/images/404.webp",
@@ -283,7 +283,7 @@ self.__precacheManifest = [
   },
   {
     "url": "resources/styles/main.css",
-    "revision": "081662d764b64481a1eed6ceabb7b6b1"
+    "revision": "a9b30e4f9e9779d6736477190a5831a1"
   },
   {
     "url": "resources/styles/materialize.min.css",
